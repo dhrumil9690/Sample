@@ -4,6 +4,6 @@ class Sample{
 
 public static void main(String args[]){
 
-System.out.println("Welcome to java world changes...");
+System.out.println("Welcome to my java world changes...");
 }
 }
